@@ -6,7 +6,7 @@ This project focuses on **removing haze from images using a Residual-Based Deep 
 ## 📷 Sample Results  
 | Hazy Image | Dehazed Image |
 |------------|--------------|
-| ![Hazy Image] 01_hazy.png| ![Dehazed Image] |
+| ![Hazy Image] ("01_hazy.png")| ![Dehazed Image] ("01_GT.png") |
 
 ## ⚙️ How It Works  
 1. **Preprocessing:**  
